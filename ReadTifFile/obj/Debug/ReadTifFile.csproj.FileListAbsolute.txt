@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ReadTifFile\ReadTifFile\bin\Debug\ReadTifFile.exe
+C:\Users\Admin\source\repos\ReadTifFile\ReadTifFile\bin\Debug\ReadTifFile.pdb
+C:\Users\Admin\source\repos\ReadTifFile\ReadTifFile\bin\Debug\gdalconst_csharp.dll
+C:\Users\Admin\source\repos\ReadTifFile\ReadTifFile\bin\Debug\gdal_csharp.dll
+C:\Users\Admin\source\repos\ReadTifFile\ReadTifFile\bin\Debug\ogr_csharp.dll
+C:\Users\Admin\source\repos\ReadTifFile\ReadTifFile\bin\Debug\osr_csharp.dll
+C:\Users\Admin\source\repos\ReadTifFile\ReadTifFile\obj\Debug\ReadTifFile.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ReadTifFile\ReadTifFile\obj\Debug\ReadTifFile.Form1.resources
+C:\Users\Admin\source\repos\ReadTifFile\ReadTifFile\obj\Debug\ReadTifFile.Properties.Resources.resources
+C:\Users\Admin\source\repos\ReadTifFile\ReadTifFile\obj\Debug\ReadTifFile.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ReadTifFile\ReadTifFile\obj\Debug\ReadTifFile.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ReadTifFile\ReadTifFile\obj\Debug\ReadTifFile.csproj.CopyComplete
+C:\Users\Admin\source\repos\ReadTifFile\ReadTifFile\obj\Debug\ReadTifFile.exe
+C:\Users\Admin\source\repos\ReadTifFile\ReadTifFile\obj\Debug\ReadTifFile.pdb
